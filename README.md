@@ -4,11 +4,11 @@ LIRI is similar to SIRI - it interprets and recognizes language. It is a command
 
 After downloading, run npm install to get the necessary dependencies. Create a .env file to hold your API keys, adding the required API keys in this format:
 
-Spotify API Keys
+# Spotify API Keys
 SPOTIFY_ID=your-spotify-id
 SPOTIFY_SECRET=your-spotify-secret
 
-Twitter API Keys
+# Twitter API Keys
 TWITTER_CONSUMER_KEY=your-twitter-consumer-key
 TWITTER_CONSUMER_SECRET=your-twitter-consumer-secret
 TWITTER_ACCESS_TOKEN_KEY=your-access-token-key
