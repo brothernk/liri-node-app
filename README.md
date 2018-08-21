@@ -1,6 +1,6 @@
 # liri-node-app
 
-LIRI is similar to SIRI - it interprets and recognizes language. It is a command line node app that takes in parameters and gives back data. This Application allows the user to interact with the Spotify, Twitter, and OMDB APIs, as well as play a game of hangman, and make "purchases" from a mock online store all on the command line.
+LIRI is similar to SIRI - it interprets and recognizes language. It is a command line node app that takes in parameters and gives back data. This Application allows the user to interact with the Spotify, Twitter, and OMDB APIs, as well as play a game of hangman, and make "purchases" from a mock online store.
 
 After downloading, run npm install to get the necessary dependencies. Create a .env file to hold your API keys, adding the required API keys in this format:
 
