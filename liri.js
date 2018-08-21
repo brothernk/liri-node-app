@@ -183,6 +183,9 @@ const runApp = () => {
 		} else if (user.command === "Hangman"){
 			playHangman();
 		}
+		else if (user.command === "Bamazon"){
+			console.log("\nCurrently under construction. Please try back later!\n");
+		}
 	});
 }
 
