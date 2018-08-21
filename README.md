@@ -6,6 +6,6 @@ After downloading, run npm install to get the necessary dependencies. Create a .
 
 ![image](https://user-images.githubusercontent.com/18450426/44418357-c7e40e00-a53d-11e8-8cb3-4f17bf4871ee.png)
 
-After setup, run the program by navigating to it in your comand line and enter "node server.js". From there a list of the possible commands will populate and you can play around with them as you please. Have fun!
+After setup, run the program by navigating to it in your comand line and enter "node liri.js". From there a list of the possible commands will populate and you can play around with them as you please. Have fun!
 
 Download the code here: https://github.com/brothernk/liri_node_app
